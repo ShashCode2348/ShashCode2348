@@ -3,7 +3,6 @@
 - 🎇 On December 26th 2021, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
 - 🔭 I am currently working on Python, and know some Turtle and Tkinter
 - 😄 I'm a beginner Python programmer, and am working as a coder in NetFruitTechnologies
-- <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ShashCode2348&show_icons=true&locale=en&theme=darkgreen"                alt="ShashCode2348"/>
 <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaster7000&theme=darkgreen" alt="ShashCode2348" />
 <!---
