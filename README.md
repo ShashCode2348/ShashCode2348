@@ -4,7 +4,7 @@
 - 🔭 I am currently working on Python, and know some Turtle and Tkinter
 - 😄 I'm a beginner Python programmer, and am working as a coder in NetFruitTechnologies
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ShashCode2348&show_icons=true&locale=en&theme=darkgreen"                alt="ShashCode2348"/>
-<img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaster7000&theme=darkgreen" alt="ShashCode2348" />
+<img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShashCode2348&theme=darkgreen" alt="ShashCode2348" />
 <!---
 ShashCode2348/ShashCode2348 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
