@@ -2,7 +2,7 @@
 # 👋 Welcome to my personal Github profile
 - 🎇 On December 26th 2021, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
 - 🔭 I have coded in Python, and know GUI like Turtle and Tkinter
-- 🔭 I am currently using C++ to code my projects
+- 🔭 I know how to code in Python and C++
 - 😄 I'm a Python programmer, and am working as a coder in NetFruitTechnologies
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ShashCode2348&show_icons=true&locale=en&theme=darkgreen"                alt="ShashCode2348"/>
 <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShashCode2348&theme=darkgreen" alt="ShashCode2348" />
