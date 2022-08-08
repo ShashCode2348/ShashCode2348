@@ -4,8 +4,6 @@
 - 🔭 I have coded in Python, and know GUI like Turtle and Tkinter
 - 🔭 I know how to code in Python and C++
 - 😄 I'm a Python programmer, and am working as a coder in NetFruitTechnologies
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=ShashCode2348&show_icons=true&locale=en&theme=darkgreen"                alt="ShashCode2348"/>
-<img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShashCode2348&theme=darkgreen" alt="ShashCode2348" />
 <!---
 ShashCode2348/ShashCode2348 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
