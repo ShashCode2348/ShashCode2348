@@ -3,7 +3,7 @@
 - 🎇 On December 26th 2021, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
 - 🔭 I have coded many projects in Python, and know GUI like Turtle and Tkinter
 - 🔭 I know how to code in Python and C++
-- 😄 I'm a Python programmer, and am working as a coder in NetFruitTechnologies
+- 😄 I'm a Python programmer, and am working as a coder in NetFruit Technologies
 <!---
 ShashCode2348/ShashCode2348 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
