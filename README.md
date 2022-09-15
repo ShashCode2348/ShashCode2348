@@ -52,6 +52,9 @@ You can click the Preview link to take a look at your changes.
 <sup>You are visitor number:</sup><br />![Visitor Count](https://profile-counter.glitch.me/ShashCode2348/count.svg)
   
 </p>
+
+---
+
 <div>
   <img src="https://media.giphy.com/media/l8G8sdTRURRBANPpPR/giphy.gif"/>
   <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif"/>
