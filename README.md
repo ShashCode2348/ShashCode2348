@@ -26,13 +26,17 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" bg="white" height=40/>
   </div>
   
+   ---
+  
+### ⚡Inspirational Quote
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&myquote=First%20we%20thought%20the%20PC%20was%20a%20calculator.%20Then%20we%20found%20out%20how%20to%20turn%20numbers%20into%20letters%20with%20ASCII%20%E2%80%94%20and%20we%20thought%20it%20was%20a%20typewriter.%20Then%20we%20discovered%20graphics%2C%20and%20we%20thought%20it%20was%20a%20television.%20With%20the%20World%20Wide%20Web%2C%20we%27ve%20realized%20it%27s%20a%20brochure+―+Douglas%20Adams)](https://github.com/piyushsuthar/github-readme-quotes) 
+  
   ---
   
   ### 🔥 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShashCode2348&theme=dark&background=000000)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashCode2348&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
 <!---
 ShashCode2348/ShashCode2348 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
