@@ -1,5 +1,8 @@
 # Hello everyone! 
-# 👋 Welcome to my personal Github profile
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="100"/>
+</div> 
+# Welcome to my personal Github profile
 - 🎇 On December 26th 2021, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
 - 🔭 I have coded many projects in Python, and know GUI like Turtle and Tkinter
 - 🔭 I know how to code in Python and C++
