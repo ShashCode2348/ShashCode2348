@@ -66,3 +66,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/l8G8sdTRURRBANPpPR/giphy.gif"/>
   <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif"/>
 </div>
+
+![snake gif](https://github.com/CodeMaster7000/CodeMaster7000/blob/output/github-contribution-grid-snake.gif)
+ 
+</div>
