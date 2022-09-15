@@ -12,8 +12,8 @@
   
 ### 😄 About Me 
 - 🎇 On December 26th 2021, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see
-- 🔭 I am working on translating some of my major Python projects into C++, and am currently working on translating DigiBingo, for which I plan to have 3 versions
-- 👨‍💻 I'm working as a coder in NetFruit Technologies
+- 🔭 I am working on translating some of my major Python projects into C++, and am currently working on translating [DigiBingo](https://github.com/ShashCode2348/DigiBingo), for which I plan to have 3 versions
+- 👨‍💻 I'm working as a coder in [NetFruit Technologies](https://github.com/NetFruit-Technologies)
   
  ---
 
