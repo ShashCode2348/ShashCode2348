@@ -35,8 +35,15 @@
   
   ### 🔥 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShashCode2348&theme=dark&background=000000)](https://git.io/streak-stats)
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashCode2348&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+<a href="https://github.com/ShashCode2348/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShashCode2348&bg_color=0D1117&color=6980A1&line=&point=FFFFFF&hide_border=true" /></a>
+  
+  <h3>Most Used Languages (by number of commits):</h3>
+<p align="center">
+	<a href="https://profile.codersrank.io/user/ShashCode2348#Tech%20Skills">
+		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ShashCode2348&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,R,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
+	</a>
 <!---
 ShashCode2348/ShashCode2348 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
