@@ -16,6 +16,10 @@
 - 👨‍💻 I'm working as a coder in [NetFruit Technologies](https://github.com/NetFruit-Technologies)
   
  ---
+### ⚡Updates
+- DigiBingo V1 has been completed! Go chck it out [here] (https://github.com/ShashCode2348/DigiBingo) and DigiBingo V2 is under way.
+
+---
 
 ### :hammer_and_wrench: Languages and Tools
   <div>
