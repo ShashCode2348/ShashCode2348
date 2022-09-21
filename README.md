@@ -17,7 +17,7 @@
   
  ---
 ### ⚡Updates
-- DigiBingo V1 has been completed! Go chck it out [here](https://github.com/ShashCode2348/DigiBingo/C++/DigiBingo%20v1) 
+- DigiBingo V1 has been completed! Go chck it out [here](https://github.com/ShashCode2348/DigiBingo/blob/main/C%2B%2B/DigiBingo%20v1.cpp) 
 - DigiBingo V2 is under way.
 
 ---
