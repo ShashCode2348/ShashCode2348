@@ -39,10 +39,7 @@
   ---
   
   ### 🔥 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShashCode2348&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashCode2348&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-<a href="https://github.com/ShashCode2348/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShashCode2348&bg_color=0D1117&color=6980A1&line=&point=FFFFFF&hide_border=true" /></a>
   
   <h3>Most Used Languages (by number of commits):</h3>
 <p align="center">
