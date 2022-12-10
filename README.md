@@ -40,8 +40,9 @@
   ---
   
   ### 🔥 My Stats
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ShashCode2348&theme=algolia&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashCode2348&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShashCode2348&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
   
 
 <!---
