@@ -18,9 +18,9 @@
   
  ---
 ### ⚡Updates
-- DigiBingo V2 has been completed! Go check it out [here](https://github.com/ShashCode2348/DigiBingo/blob/main/C%2B%2B/DigiBingo%20V2) 
-- DigiBingo V3 is under way.
-- [DigiBingo Graphics](https://github.com/ShashCode2348/DigiBingo/blob/main/Python/DigiBingoGraphics.py): Layout changed and increased speed for higher player count 
+- [DigiBingo Graphics](https://github.com/ShashCode2348/DigiBingo/blob/main/Python/DigiBingoGraphics.py): Bug fixed with adding more players(function getplayersnames)
+- [DigiBingo Graphics](https://github.com/ShashCode2348/DigiBingo/blob/main/Python/DigiBingoGraphics.py): Layout changed and increased speed for higher player count
+- DigiBingo V2 has been completed! Go check it out [here](https://github.com/ShashCode2348/DigiBingo/blob/main/C%2B%2B/DigiBingo%20V2). DigiBingo V3 is under way. 
 
 ---
 
