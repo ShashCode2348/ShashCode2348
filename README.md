@@ -34,7 +34,13 @@
   </div>
   
    ---
-  
+ 
+### ⚡ Contributions
+	
+<p align="center">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ShashCode2348&theme=dark&background=000000"/>
+</p>
+	
 ### ⚡Inspirational Quote...
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes) 
   
