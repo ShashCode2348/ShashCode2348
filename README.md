@@ -34,12 +34,6 @@
   </div>
   
    ---
- 
-### ⚡ Contributions
-	
-<p align="center">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ShashCode2348&theme=dark&background=000000"/>
-</p>
 	
 ### ⚡Inspirational Quote...
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes) 
@@ -53,7 +47,11 @@
   
   ### 🔥 My Stats
   [![trophy](https://github-profile-trophy.vercel.app/?username=ShashCode2348&theme=algolia&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-  
+	
+<p>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ShashCode2348&theme=dark&background=000000"/>
+</p>
+	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashCode2348&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   <p align="center">
 	<a href="https://profile.codersrank.io/user/ShashCode2348#Tech%20Skills">
