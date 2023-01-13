@@ -53,7 +53,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ShashCode2348&theme=dark&background=000000"/>
 </p>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ShashCode2348)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashCode2348&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 	
 <p align="center">
 	<a href="https://profile.codersrank.io/user/ShashCode2348#Tech%20Skills">
