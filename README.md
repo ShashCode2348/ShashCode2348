@@ -14,6 +14,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4096&pause=24&width=435&color=10FF50&background=00000000&vCenter=true&width=435&lines=Keen+Python+and+C%2B%2B+Developer;Full-Stack+Developer;1+year+of+coding+experience)](https://git.io/typing-svg)
 - 🎇 On December 26th 2021, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see
 - 🔭 I am working on translating some of my major Python projects into C++, and have recently finished translating [DigiBingo](https://github.com/ShashCode2348/DigiBingo), for which there are 5 versions in total
+- 💬 I know a bit about Turtle and Tkinter in Python, and FLTK in C++, so feel free to ask me if you need help
 - 👨‍💻 I'm currently a coder in [NetFruit Technologies](https://github.com/NetFruit-Technologies)
   
  ---
