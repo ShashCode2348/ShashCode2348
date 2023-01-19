@@ -1,6 +1,6 @@
 <div id="header">
   <h1>
-    Welcome
+    Welcome to my personal GitHub profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div> 
 <div align="center">
@@ -12,16 +12,16 @@
   
 ### 😄 About Me 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4096&pause=24&width=435&color=10FF50&background=00000000&vCenter=true&width=435&lines=Keen+Python+and+C%2B%2B+Developer;Full-Stack+Developer;1+year+of+coding+experience)](https://git.io/typing-svg)
-- 🎇 On December 26th 2021, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see
-- 🔭 I am working on translating some of my major Python projects into C++, and have recently finished translating [DigiBingo](https://github.com/ShashCode2348/DigiBingo), for which there are 5 versions in total
-- 💬 I know a bit about Turtle and Tkinter in Python, and FLTK in C++, so feel free to ask me if you need any help
-- 👨‍💻 I'm currently a coder in [NetFruit Technologies](https://github.com/NetFruit-Technologies)
+- 🎇 On December 26th 2021, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
+- 🔭 I am working on translating some of my major Python projects into C++, and have recently finished translating [DigiBingo](https://github.com/ShashCode2348/DigiBingo), for which there are 5 versions in total.
+- 💬 I know a bit about Turtle and Tkinter in Python, and FLTK in C++, so feel free to ask me if you need any help!
+- 👨‍💻 I'm currently a coder in [NetFruit Technologies](https://github.com/NetFruit-Technologies).
   
  ---
 ### ⚡Updates
 - I have updated [DigiBingo V3](https://github.com/ShashCode2348/DigiBingo/blob/main/C%2B%2B/DigiBingo%20V3) with a fix to the bug in the function `askStr`. If anyone else finds any more bugs, please feel free to open a PR or issue in the [DigiBingo repo](https://github.com/ShashCode2348/DigiBingo) and I will be happy to merge your commits!
-- [DigiBingo Graphics](https://github.com/ShashCode2348/DigiBingo/blob/main/Python/DigiBingoGraphics.py): Bug fixed with adding more players(function getplayersnames)
-- [DigiBingo Graphics](https://github.com/ShashCode2348/DigiBingo/blob/main/Python/DigiBingoGraphics.py): Layout changed and increased speed for higher player count
+- [DigiBingo Graphics](https://github.com/ShashCode2348/DigiBingo/blob/main/Python/DigiBingoGraphics.py): Bug fixed with adding more players(function getplayersnames).
+- [DigiBingo Graphics](https://github.com/ShashCode2348/DigiBingo/blob/main/Python/DigiBingoGraphics.py): Layout changed and increased speed for higher player count.
 
 ---
 
@@ -36,17 +36,17 @@
   
    ---
 	
-### ⚡Inspirational Quote...
+### ⚡Inspirational Quote
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes) 
   
 ---
 	
-### & A Technology Joke😆
+### 😆 Technology Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000000&qColor=%23FFFF00&aColor=%2300FF00&borderColor=%236950A1)
 	
   ---
   
-  ### 🔥 My Stats
+  ### 🔥 My Contribution stats
   [![trophy](https://github-profile-trophy.vercel.app/?username=ShashCode2348&theme=algolia&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 	
 <p>
