@@ -18,6 +18,7 @@
 - 👨‍💻 I'm currently a coder in [NetFruit Technologies](https://github.com/NetFruit-Technologies)
   
  ---
+	
 ### ⚡Updates
 - I have updated [DigiBingo V3](https://github.com/ShashCode2348/DigiBingo/blob/main/C%2B%2B/DigiBingo%20V3) with a fix to the bug in the function `askStr`. If anyone else finds any more bugs, please feel free to open a PR or issue in the [DigiBingo repo](https://github.com/ShashCode2348/DigiBingo) and I will be happy to merge your commits!
 - [DigiBingo Graphics](https://github.com/ShashCode2348/DigiBingo/blob/main/Python/DigiBingoGraphics.py): Bug fixed with adding more players(function getplayersnames)
@@ -35,8 +36,15 @@
   </div>
   
    ---
+
+### Most Used Languages (by number of commits)
+
+	<a href="https://profile.codersrank.io/user/ShashCode2348#Tech%20Skills">
+		<img width="800em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ShashCode2348&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,R,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=lightblue">
+	</a>
+</p>
 	
-### ⚡Inspirational Quote...
+### ⚡ Inspirational Quote...
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes) 
   
 ---
@@ -46,20 +54,15 @@
 	
   ---
   
-  ### 🔥 My Stats
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ShashCode2348&theme=algolia&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-	
-<p>
+### 🔥 Contribution Stats
+
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ShashCode2348&theme=dark&background=000000"/>
 </p>
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashCode2348&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-	
-<p>
-	<a href="https://profile.codersrank.io/user/ShashCode2348#Tech%20Skills">
-		<img width="800em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ShashCode2348&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,R,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=lightblue">
-	</a>
-</p>
+
+---
+
+### Profile Trophies
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ShashCode2348&theme=algolia&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 ShashCode2348/ShashCode2348 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
