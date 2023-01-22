@@ -53,7 +53,7 @@
   
 ---
 	
-### & A Technology Joke😆
+### 😆 & A Technology Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000000&qColor=%23FFFF00&aColor=%2300FF00&borderColor=%236950A1)
 	
   ---
