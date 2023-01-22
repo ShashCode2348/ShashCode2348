@@ -44,7 +44,7 @@
 	</a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashCode2348&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashCode2348&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 	
 ---
 	
@@ -54,7 +54,7 @@
 ---
 	
 ### 😆 & A Technology Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000000&qColor=%23FFFF00&aColor=%2300FF00&borderColor=%236950A1)
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000000&qColor=%23FFAA00&aColor=%23AAFF00&borderColor=%236950A1)
 	
   ---
   
