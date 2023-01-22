@@ -37,12 +37,16 @@
   
    ---
 
-### Language Stats
+### :hammer_and_wrench: Language Stats
 <p>
 	<a href="https://profile.codersrank.io/user/ShashCode2348#Tech%20Skills">
 		<img width="800em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ShashCode2348&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,R,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=lightblue">
 	</a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashCode2348&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+	
+---
 	
 ### ⚡ Inspirational Quote...
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes) 
