@@ -65,7 +65,7 @@
 
 ---
 
-### Trophies
+### 🏆 Trophies
   [![trophy](https://github-profile-trophy.vercel.app/?username=ShashCode2348&theme=algolia&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
