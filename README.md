@@ -20,9 +20,9 @@
  ---
 	
 ### ⚡Updates
-- Created the repository CPlusPlusLearning to help you to learn C++.
+- I have created a [small project in Python](https://github.com/ShashCode2348/Capital-Letter-Formatter) that performs basic capitalisation formatting on your text. Do check it out!
+- I have created the repository CPlusPlusLearning to help you to learn C++.
 - [Message Encoder](https://github.com/ShashCode2348/Message-Encoder): Increased speed(Python) and addition of characters to the recognised list. Unfortunately, this means that [A Short Christmas Challenge](https://github.com/ShashCode2348/A-Short-Christmas-Challenge) will no longer work 
-- I have updated [DigiBingo V3](https://github.com/ShashCode2348/DigiBingo/blob/main/C%2B%2B/DigiBingo%20V3) with a fix to the bug in the function `askStr`. If anyone else finds any more bugs, please feel free to open a PR or issue in the [DigiBingo repo](https://github.com/ShashCode2348/DigiBingo) and I will be happy to merge your commits!
 
 ---
 
