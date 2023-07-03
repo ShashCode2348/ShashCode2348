@@ -20,7 +20,8 @@
  ---
 	
 ### ⚡Updates
-- I have created a [small project in Python](https://github.com/ShashCode2348/Capital-Letter-Formatter) that performs basic capitalisation formatting on your text. Do check it out!
+- Big improvements to [DigiBingoGraphics](https://github.com/ShashCode2348/DigiBingo/blob/main/Python/DigiBingoGraphics.py) including new features and better variable/function names for better readability. Checck it out now!
+- I have created a [small project in Python](https://github.com/ShashCode2348/Capital-Letter-Formatter) that performs basic capitalisation formatting on your text.
 - I have created the repository CPlusPlusLearning to help you to learn C++.
 - [Message Encoder](https://github.com/ShashCode2348/Message-Encoder): Increased speed(Python) and addition of characters to the recognised list. Unfortunately, this means that [A Short Christmas Challenge](https://github.com/ShashCode2348/A-Short-Christmas-Challenge) will no longer work 
 
