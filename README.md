@@ -19,9 +19,10 @@
  ---
 	
 ### ⚡Updates
-- Big improvements to [DigiBingo Graphics](https://github.com/ShashCode2348/DigiBingo/blob/main/Python/DigiBingoGraphics.py) including new features and better variable/function names for better readability. Please do check it out!
+- Created a new project [SIR Simulations](https://github.com/ShashCode2348/DigiBingo) which simulates a few different interventions used in controlling epidemics. Please do check it out!
+- Big improvements to [DigiBingo Graphics](https://github.com/ShashCode2348/DigiBingo/blob/main/Python/DigiBingoGraphics.py) including new features and better variable/function names for better readability.
 - I have created a [small project in Python](https://github.com/ShashCode2348/Capital-Letter-Formatter) that performs basic capitalisation formatting on your text.
-- I have created the repository CPlusPlusLearning to help you to learn C++.
+- I have created the repository CPlusPlusLearning to help you learn C++.
 - [Message Encoder](https://github.com/ShashCode2348/Message-Encoder): Increased speed(Python) and addition of characters to the recognised list. Unfortunately, this means that [A Short Christmas Challenge](https://github.com/ShashCode2348/A-Short-Christmas-Challenge) will no longer work 
 
 ---
